@@ -10556,7 +10556,7 @@ html.boxed body {
 	position: relative;
 	display: inline-block;
 	overflow: hidden;
-	font-size: 320px;
+	font-size: 100px;
 	line-height: 85%;
 	font-weight: 600;
 	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -11788,6 +11788,7 @@ html [class*='section-'].section-top-0 {
 
 .text-width-extra-small {
 	max-width: 320px;
+	padding-left:10%;
 }
 
 .text-width-small {
@@ -17163,7 +17164,7 @@ h1 + .tabs-line {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	border: 6px solid #ebebeb;
+	border: 6px solid #ffffff;
 	transition: all .3s ease;
 	z-index: -1;
 }
@@ -17173,7 +17174,7 @@ h1 + .tabs-line {
 }
 
 .counter-modern-number {
-	font-size: 60px;
+	font-size: 10px;
 	line-height: 0.6;
 	letter-spacing: .025em;
 	text-transform: uppercase;
